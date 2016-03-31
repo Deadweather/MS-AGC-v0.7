@@ -1,0 +1,91 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     1969 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.150 seconds
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike-Schutermann-Alpha_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 22.435543 ms
+level requested for:GameT9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.295863 ms
+Scanning - Process took 21 ms to complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 724.
+Total: 2.024086 ms (FindLiveObjects: 0.016393 ms CreateObjectMapping: 0.021004 ms MarkObjects: 1.982846 ms  DeleteObjects: 0.003329 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2688 -> priority: 1 
+  Thread -> id: 6a4 -> priority: 1 
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at CamerController.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.090445 ms
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 360.
+Total: 2.858105 ms (FindLiveObjects: 0.032530 ms CreateObjectMapping: 0.027407 ms MarkObjects: 2.478749 ms  DeleteObjects: 0.318392 ms)
+
+The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.144471 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 360.
+Total: 2.617326 ms (FindLiveObjects: 0.020748 ms CreateObjectMapping: 0.025102 ms MarkObjects: 2.565584 ms  DeleteObjects: 0.005122 ms)
+
+level requested for:Main Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.390626 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.242576 ms (FindLiveObjects: 0.042008 ms CreateObjectMapping: 0.012038 ms MarkObjects: 1.185199 ms  DeleteObjects: 0.003073 ms)
+
+I want to quit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+

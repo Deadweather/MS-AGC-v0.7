@@ -1,0 +1,185 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     1969 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+- Completed reload, in  0.166 seconds
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Joseph\Documents\George Brown Gaming\GB - Game Production\Mike Shooterman v1.5 3-7-16\Mike-Schutermann-The-Attack-of-the-Green-Capsule-master\Mike Schutermann v1.51_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.474131 ms
+level requested for:GameT9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.477985 ms
+Scanning - Process took 22 ms to complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 935.
+Total: 2.204414 ms (FindLiveObjects: 0.034067 ms CreateObjectMapping: 0.027664 ms MarkObjects: 2.137303 ms  DeleteObjects: 0.005122 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 12a0 -> priority: 1 
+  Thread -> id: 2afc -> priority: 1 
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at CamerController.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.838382 ms
+
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 366.
+Total: 1.609637 ms (FindLiveObjects: 0.014344 ms CreateObjectMapping: 0.012295 ms MarkObjects: 1.198775 ms  DeleteObjects: 0.383710 ms)
+
+The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.623721 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 366.
+Total: 1.072750 ms (FindLiveObjects: 0.008196 ms CreateObjectMapping: 0.010758 ms MarkObjects: 1.051233 ms  DeleteObjects: 0.002305 ms)
+
+level requested for:Main Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.460299 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 1.169318 ms (FindLiveObjects: 0.021004 ms CreateObjectMapping: 0.018186 ms MarkObjects: 1.126029 ms  DeleteObjects: 0.003842 ms)
+
+level requested for:HowToPlay
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.371671 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 366.
+Total: 1.260251 ms (FindLiveObjects: 0.015881 ms CreateObjectMapping: 0.012807 ms MarkObjects: 1.227464 ms  DeleteObjects: 0.003329 ms)
+
+level requested for:Main Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.301999 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 1.138580 ms (FindLiveObjects: 0.012551 ms CreateObjectMapping: 0.011270 ms MarkObjects: 1.111428 ms  DeleteObjects: 0.003073 ms)
+
+level requested for:Settings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.285093 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 371.
+Total: 1.174953 ms (FindLiveObjects: 0.010245 ms CreateObjectMapping: 0.011270 ms MarkObjects: 1.149851 ms  DeleteObjects: 0.003329 ms)
+
+level requested for:Main Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.286117 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 1.150875 ms (FindLiveObjects: 0.013832 ms CreateObjectMapping: 0.011270 ms MarkObjects: 1.121674 ms  DeleteObjects: 0.003329 ms)
+
+level requested for:GameT9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.373720 ms
+Scanning - Process took 17 ms to complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 964.
+Total: 2.493862 ms (FindLiveObjects: 0.056608 ms CreateObjectMapping: 0.022541 ms MarkObjects: 2.409333 ms  DeleteObjects: 0.005122 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at CamerController.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.932641 ms
+
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 366.
+Total: 1.764863 ms (FindLiveObjects: 0.025358 ms CreateObjectMapping: 0.016649 ms MarkObjects: 1.136531 ms  DeleteObjects: 0.586067 ms)
+
+The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.257685 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 366.
+Total: 1.210558 ms (FindLiveObjects: 0.028176 ms CreateObjectMapping: 0.026127 ms MarkObjects: 1.151900 ms  DeleteObjects: 0.003329 ms)
+
+level requested for:Main Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.302767 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 1.241296 ms (FindLiveObjects: 0.014088 ms CreateObjectMapping: 0.011782 ms MarkObjects: 1.211070 ms  DeleteObjects: 0.003329 ms)
+
+I want to quit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
