@@ -12,16 +12,23 @@ public class MenuMusicCont : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        music = GetComponent<AudioSource>();
 
-        currentClip = musicIntro;
+        if (GameObject.Find("Settings").GetComponent<settings>().music == true)
+        {
 
-        music.clip = currentClip;
-        music.Play();
+            music = GetComponent<AudioSource>();
 
-        musict = music.clip.length;
+            currentClip = musicIntro;
 
-        StartCoroutine(playLoop());
+            music.clip = currentClip;
+            music.Play();
+
+            musict = music.clip.length;
+
+
+            StartCoroutine(playLoop());
+        }
+      
 	}
 
     IEnumerator playLoop()

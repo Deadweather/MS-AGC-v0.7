@@ -21,9 +21,9 @@ public class MainMenuCamera : MonoBehaviour {
 	void Update () {
 
         transform.LookAt(target);
-        transform.Rotate(25,0,0);
+        transform.Rotate(30,0,0);
 
-        transform.Translate(Vector3.right * 0.5f);
+        transform.Translate(Vector3.right * 0.3f);
 
     }
 }

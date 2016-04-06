@@ -24,7 +24,14 @@ public class Timer : MonoBehaviour
     void Update()
     {
 
-        Text.text = "Time: " + TimeLeft;
+        if (GameObject.Find("Settings").GetComponent<settings>().lang == true)
+        {
+            Text.text = "Time: " + TimeLeft;
+        }
+        else
+        {
+            Text.text = "Temps: " + TimeLeft;
+        }
 
         TimeLeft -= Time.deltaTime;
 

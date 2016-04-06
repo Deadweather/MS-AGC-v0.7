@@ -19,10 +19,18 @@ public class EnemyMovement : MonoBehaviour
         GameObject player = GameObject.Find("Player");
         target = player.GetComponent<Transform>();
         rb = this.GetComponent <Rigidbody >();
+        
+        if (GameObject.Find("Settings").GetComponent<settings>().diff == true)
+        {
+            speed = 0.9f;
+        }
+        else
+        {
+            speed = 1.5f;
+        }
 
 
-        minRange = 1;
-        speed = 1.5f;       
+               
     }
 
 
@@ -30,8 +38,6 @@ public class EnemyMovement : MonoBehaviour
     {
 
         forwardDirection = this.transform.TransformDirection(Vector3.forward);
-
-        //transform.Translate(Vector3.forward * speed);
     }
 
     void FixedUpdate()

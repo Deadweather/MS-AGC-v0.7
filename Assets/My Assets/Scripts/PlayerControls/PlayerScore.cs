@@ -24,7 +24,17 @@ public class PlayerScore : MonoBehaviour
         {
             this.score = this.score - 20;
         }
-        this.scoreText.text = "Current Score: " + this.score;
+
+
+        if (GameObject.Find("Settings").GetComponent<settings>().lang == false)
+        {
+            this.scoreText.text = "Score Actuel: " + this.score;
+        }
+        else
+        {
+            this.scoreText.text = "Current Score: " + this.score;
+        }
+        
         if (this.score == 0)
         {
             SceneManager.LoadScene("Lose");
@@ -40,7 +50,14 @@ public class PlayerScore : MonoBehaviour
             this.score = this.score + 100;
 
             // Display the score.
-            this.scoreText.text = "Current Score: " + this.score;
+            if (GameObject.Find("Settings").GetComponent<settings>().lang == false)
+            {
+                this.scoreText.text = "Score Actuel: " + this.score;
+            }
+            else
+            {
+                this.scoreText.text = "Current Score: " + this.score;
+            }
 
             // Destroy the coin.
             Destroy(other.gameObject);
